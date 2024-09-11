@@ -1,0 +1,38 @@
+{
+  "playerData": {
+    "Inventory": [
+      {
+        "BaseDamage": 1,
+        "ID": "2c2babfe-70bb-4c7d-9540-a4311a5f1c22",
+        "Value": 10,
+        "Name": "Iron Sword"
+      },
+      {
+        "ID": "84f59ba3-e455-4e35-baeb-619bbbd6fbb6",
+        "Value": 50,
+        "Name": "Potion"
+      }
+    ],
+    "Health": 15,
+    "Gold": 10000,
+    "MaxHealth": 15,
+    "Level": 1,
+    "Experience": 0,
+    "Equipped": {
+      "BaseDamage": 1,
+      "ID": "2c2babfe-70bb-4c7d-9540-a4311a5f1c22",
+      "Value": 10,
+      "Name": "Iron Sword"
+    },
+    "Name": "Biomod"
+  },
+  "meta": {
+    "CurrentDepth": 1,
+    "ExplorationsLasted": 1,
+    "EnemiesSlain": 0,
+    "PotionsDrank": 0,
+    "CrystalsUsed": 0,
+    "GoldObtained": 10000,
+    "NextLevel": 300
+  }
+}

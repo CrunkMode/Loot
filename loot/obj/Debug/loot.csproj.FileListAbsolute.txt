@@ -1,0 +1,26 @@
+C:\Users\Trent N\Desktop\Projects\Loot\loot\loot\bin\Debug\loot.exe.config
+C:\Users\Trent N\Desktop\Projects\Loot\loot\loot\bin\Debug\loot.exe
+C:\Users\Trent N\Desktop\Projects\Loot\loot\loot\bin\Debug\loot.pdb
+C:\Users\Trent N\Desktop\Projects\Loot\loot\loot\obj\Debug\loot.csprojAssemblyReference.cache
+C:\Users\Trent N\Desktop\Projects\Loot\loot\loot\obj\Debug\loot.csproj.CoreCompileInputs.cache
+C:\Users\Trent N\Desktop\Projects\Loot\loot\loot\obj\Debug\loot.exe
+C:\Users\Trent N\Desktop\Projects\Loot\loot\loot\obj\Debug\loot.pdb
+D:\DataHoard\Projects\Loot\loot\loot\bin\Debug\loot.exe.config
+D:\DataHoard\Projects\Loot\loot\loot\bin\Debug\loot.exe
+D:\DataHoard\Projects\Loot\loot\loot\bin\Debug\loot.pdb
+D:\DataHoard\Projects\Loot\loot\loot\obj\Debug\loot.csprojAssemblyReference.cache
+D:\DataHoard\Projects\Loot\loot\loot\obj\Debug\loot.exe
+D:\DataHoard\Projects\Loot\loot\loot\obj\Debug\loot.pdb
+E:\DataHoard\Projects\Loot\loot\loot\bin\Debug\loot.exe.config
+E:\DataHoard\Projects\Loot\loot\loot\bin\Debug\loot.exe
+E:\DataHoard\Projects\Loot\loot\loot\bin\Debug\loot.pdb
+E:\DataHoard\Projects\Loot\loot\loot\obj\Debug\loot.csproj.CoreCompileInputs.cache
+E:\DataHoard\Projects\Loot\loot\loot\obj\Debug\loot.exe
+E:\DataHoard\Projects\Loot\loot\loot\obj\Debug\loot.pdb
+E:\DataHoard\Projects\Loot\loot\loot\bin\Debug\Newtonsoft.Json.dll
+E:\DataHoard\Projects\Loot\loot\loot\bin\Debug\Newtonsoft.Json.xml
+E:\DataHoard\Projects\Loot\loot\loot\obj\Debug\loot.csproj.CopyComplete
+E:\DataHoard\Projects\Loot\loot\loot\obj\Debug\loot.Properties.Resources.resources
+E:\DataHoard\Projects\Loot\loot\loot\obj\Debug\loot.csproj.GenerateResource.cache
+E:\DataHoard\Projects\Loot\loot\loot\obj\Debug\loot.csproj.AssemblyReference.cache
+E:\DataHoard\Projects\Loot\loot\loot\obj\Debug\loot.csproj.SuggestedBindingRedirects.cache

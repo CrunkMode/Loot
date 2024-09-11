@@ -1,0 +1,12 @@
+E:\DataHoard\Projects\Loot\loot\loot\bin\Release\loot.exe.config
+E:\DataHoard\Projects\Loot\loot\loot\bin\Release\loot.exe
+E:\DataHoard\Projects\Loot\loot\loot\bin\Release\loot.pdb
+E:\DataHoard\Projects\Loot\loot\loot\obj\Release\loot.csproj.CoreCompileInputs.cache
+E:\DataHoard\Projects\Loot\loot\loot\obj\Release\loot.exe
+E:\DataHoard\Projects\Loot\loot\loot\obj\Release\loot.pdb
+E:\DataHoard\Projects\Loot\loot\loot\obj\Release\loot.csprojAssemblyReference.cache
+E:\DataHoard\Projects\Loot\loot\loot\bin\Release\Newtonsoft.Json.dll
+E:\DataHoard\Projects\Loot\loot\loot\bin\Release\Newtonsoft.Json.xml
+E:\DataHoard\Projects\Loot\loot\loot\obj\Release\loot.Properties.Resources.resources
+E:\DataHoard\Projects\Loot\loot\loot\obj\Release\loot.csproj.GenerateResource.cache
+E:\DataHoard\Projects\Loot\loot\loot\obj\Release\loot.csproj.CopyComplete

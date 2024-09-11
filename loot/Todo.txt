@@ -1,0 +1,22 @@
+﻿==========================
+Grand list of things to do
+==========================
+
+-Figure out the "Invisible potion" bug
+
+-Interactable list for NPCs
+
+-General HUD implementations
+
+-Inventory screen can select hidden item at end of list 
+(related to invis potion bug)
+
+-It's clear to me that I need to reformat the entire way the NPC's 
+inventory system works I already created a system to print out and
+have the player select whatever is in their inventory, if I can somehow
+modify that method i take in any inventory I can hook 
+it into the NPC barter menu.
+
+-Figure out a way to make an exponential (Is that the right word?) 
+system for experience gain. Still getiing 50 EXP for killing a dragon while
+you've grinded to level 10 is not very fun.
