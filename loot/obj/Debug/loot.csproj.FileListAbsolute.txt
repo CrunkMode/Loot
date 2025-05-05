@@ -24,3 +24,15 @@ E:\DataHoard\Projects\Loot\loot\loot\obj\Debug\loot.Properties.Resources.resourc
 E:\DataHoard\Projects\Loot\loot\loot\obj\Debug\loot.csproj.GenerateResource.cache
 E:\DataHoard\Projects\Loot\loot\loot\obj\Debug\loot.csproj.AssemblyReference.cache
 E:\DataHoard\Projects\Loot\loot\loot\obj\Debug\loot.csproj.SuggestedBindingRedirects.cache
+E:\DataHoard\Projects\LootGame\loot\obj\Debug\loot.csprojAssemblyReference.cache
+E:\DataHoard\Projects\LootGame\loot\obj\Debug\loot.Properties.Resources.resources
+E:\DataHoard\Projects\LootGame\loot\obj\Debug\loot.csproj.GenerateResource.cache
+E:\DataHoard\Projects\LootGame\loot\obj\Debug\loot.csproj.CoreCompileInputs.cache
+E:\DataHoard\Projects\LootGame\loot\obj\Debug\loot.exe
+E:\DataHoard\Projects\LootGame\loot\obj\Debug\loot.pdb
+E:\DataHoard\Projects\LootGame\loot\bin\Debug\loot.exe.config
+E:\DataHoard\Projects\LootGame\loot\bin\Debug\loot.exe
+E:\DataHoard\Projects\LootGame\loot\bin\Debug\loot.pdb
+E:\DataHoard\Projects\LootGame\loot\bin\Debug\Newtonsoft.Json.dll
+E:\DataHoard\Projects\LootGame\loot\bin\Debug\Newtonsoft.Json.xml
+E:\DataHoard\Projects\LootGame\loot\obj\Debug\loot.csproj.CopyComplete

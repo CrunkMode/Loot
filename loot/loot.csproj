@@ -68,13 +68,17 @@
     <Compile Include="Alchemist.cs" />
     <Compile Include="Blacksmith.cs" />
     <Compile Include="Crystal.cs" />
+    <Compile Include="Draw.cs" />
     <Compile Include="Enemy.cs" />
+    <Compile Include="GameMaster.cs" />
     <Compile Include="Generation.cs" />
     <Compile Include="Item.cs" />
     <Compile Include="MetaStatistics.cs" />
     <Compile Include="Player.cs" />
+    <Compile Include="Pointer.cs" />
     <Compile Include="Potion.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="Prompt.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
